@@ -1,0 +1,9 @@
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.infra.data\bin\Debug\netcoreapp3.1\br.com.galdino.microservice.infra.data.deps.json
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.infra.data\bin\Debug\netcoreapp3.1\br.com.galdino.microservice.infra.data.dll
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.infra.data\bin\Debug\netcoreapp3.1\br.com.galdino.microservice.infra.data.pdb
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.infra.data\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.infra.data.csprojAssemblyReference.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.infra.data\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.infra.data.AssemblyInfoInputs.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.infra.data\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.infra.data.AssemblyInfo.cs
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.infra.data\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.infra.data.csproj.CoreCompileInputs.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.infra.data\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.infra.data.dll
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.infra.data\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.infra.data.pdb

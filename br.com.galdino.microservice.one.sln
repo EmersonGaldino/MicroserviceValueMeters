@@ -1,0 +1,99 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "br.com.galdino.microservice.one.api", "br.com.galdino.microservice.one\br.com.galdino.microservice.one.api.csproj", "{3D46CE8E-A335-41E8-A9E0-230EE2E72F52}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Presentation", "01 - Presentation", "{D9001039-39BC-4A4C-B2F1-B44C7AB7C24A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.1 - API", "1.1 - API", "{988376C8-ABF0-4B21-A220-5C168CF2A899}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Application", "02 - Application", "{661992DB-E605-40FC-B0AE-C7911E2B22C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "br.com.galdino.microservice.application", "br.com.galdino.microservice.application\br.com.galdino.microservice.application.csproj", "{9F9F9BD6-2D7E-47F1-992B-AC30DEE698B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Domain", "03 - Domain", "{4CE24098-DB8F-4D7F-AFCA-CFAEAD4C5224}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.1 - Core", "3.1 - Core", "{7E63F2E2-9C26-4BC0-9C60-A034BDE99410}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.2 - CrossCouting", "3.2 - CrossCouting", "{974EEC90-1EE7-4EAB-906E-707727FC1A6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Infra", "04 - Infra", "{879BF3E1-B22A-492A-9ACB-FB55884E9DB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Data", "4.1 - Data", "{A4EBE69C-7B71-4FA5-AE3F-DA26EF036650}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2 - Job", "4.2 - Job", "{A0DC9A36-751B-4B46-BBE0-5A0A447A855C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - Utils", "05 - Utils", "{66C1CF68-346D-4DA0-8D42-D2DB0E25A924}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06 - Tests", "06 - Tests", "{9EED700D-251F-41CE-A1E2-A5BE94560AFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07 - Docker", "07 - Docker", "{53943B7F-431E-4FA3-BB18-FC92B12DE7F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "br.com.galdino.microservice.domain.core", "br.com.galdino.microservice.domain.core\br.com.galdino.microservice.domain.core.csproj", "{201AA78E-8BA1-4BFE-9236-8169C1688189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "br.com.galdino.microservice.domain.crosscouting", "br.com.galdino.microservice.domain.crosscouting\br.com.galdino.microservice.domain.crosscouting.csproj", "{87A62CBE-8ADB-4819-A0FF-3E0F2E3AAC2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "br.com.galdino.microservice.infra.data", "br.com.galdino.microservice.infra.data\br.com.galdino.microservice.infra.data.csproj", "{0118814C-22BB-474D-A226-12549FB6F0EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "br.com.galdino.microservice.utils", "br.com.galdino.microservice.utils\br.com.galdino.microservice.utils.csproj", "{3C4BA6C1-6E6E-4AB0-A3C3-02CEC22F65A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "br.com.galdino.microservice.test", "br.com.galdino.microservice.test\br.com.galdino.microservice.test.csproj", "{BAC8C55C-0EDD-493C-A9AF-C34FD50F00E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D46CE8E-A335-41E8-A9E0-230EE2E72F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D46CE8E-A335-41E8-A9E0-230EE2E72F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D46CE8E-A335-41E8-A9E0-230EE2E72F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D46CE8E-A335-41E8-A9E0-230EE2E72F52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9F9BD6-2D7E-47F1-992B-AC30DEE698B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9F9BD6-2D7E-47F1-992B-AC30DEE698B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9F9BD6-2D7E-47F1-992B-AC30DEE698B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9F9BD6-2D7E-47F1-992B-AC30DEE698B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{201AA78E-8BA1-4BFE-9236-8169C1688189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201AA78E-8BA1-4BFE-9236-8169C1688189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{201AA78E-8BA1-4BFE-9236-8169C1688189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{201AA78E-8BA1-4BFE-9236-8169C1688189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A62CBE-8ADB-4819-A0FF-3E0F2E3AAC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A62CBE-8ADB-4819-A0FF-3E0F2E3AAC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A62CBE-8ADB-4819-A0FF-3E0F2E3AAC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A62CBE-8ADB-4819-A0FF-3E0F2E3AAC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0118814C-22BB-474D-A226-12549FB6F0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0118814C-22BB-474D-A226-12549FB6F0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0118814C-22BB-474D-A226-12549FB6F0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0118814C-22BB-474D-A226-12549FB6F0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C4BA6C1-6E6E-4AB0-A3C3-02CEC22F65A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4BA6C1-6E6E-4AB0-A3C3-02CEC22F65A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4BA6C1-6E6E-4AB0-A3C3-02CEC22F65A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4BA6C1-6E6E-4AB0-A3C3-02CEC22F65A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC8C55C-0EDD-493C-A9AF-C34FD50F00E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC8C55C-0EDD-493C-A9AF-C34FD50F00E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC8C55C-0EDD-493C-A9AF-C34FD50F00E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC8C55C-0EDD-493C-A9AF-C34FD50F00E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3D46CE8E-A335-41E8-A9E0-230EE2E72F52} = {988376C8-ABF0-4B21-A220-5C168CF2A899}
+		{988376C8-ABF0-4B21-A220-5C168CF2A899} = {D9001039-39BC-4A4C-B2F1-B44C7AB7C24A}
+		{9F9F9BD6-2D7E-47F1-992B-AC30DEE698B6} = {661992DB-E605-40FC-B0AE-C7911E2B22C6}
+		{7E63F2E2-9C26-4BC0-9C60-A034BDE99410} = {4CE24098-DB8F-4D7F-AFCA-CFAEAD4C5224}
+		{974EEC90-1EE7-4EAB-906E-707727FC1A6F} = {4CE24098-DB8F-4D7F-AFCA-CFAEAD4C5224}
+		{A4EBE69C-7B71-4FA5-AE3F-DA26EF036650} = {879BF3E1-B22A-492A-9ACB-FB55884E9DB5}
+		{A0DC9A36-751B-4B46-BBE0-5A0A447A855C} = {879BF3E1-B22A-492A-9ACB-FB55884E9DB5}
+		{201AA78E-8BA1-4BFE-9236-8169C1688189} = {7E63F2E2-9C26-4BC0-9C60-A034BDE99410}
+		{87A62CBE-8ADB-4819-A0FF-3E0F2E3AAC2C} = {974EEC90-1EE7-4EAB-906E-707727FC1A6F}
+		{0118814C-22BB-474D-A226-12549FB6F0EC} = {A4EBE69C-7B71-4FA5-AE3F-DA26EF036650}
+		{3C4BA6C1-6E6E-4AB0-A3C3-02CEC22F65A9} = {66C1CF68-346D-4DA0-8D42-D2DB0E25A924}
+		{BAC8C55C-0EDD-493C-A9AF-C34FD50F00E5} = {9EED700D-251F-41CE-A1E2-A5BE94560AFC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F99CCC9B-9AEA-4C94-8869-4CD3AAC5EDC4}
+	EndGlobalSection
+EndGlobal

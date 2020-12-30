@@ -1,0 +1,9 @@
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.crosscouting\bin\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.crosscouting.deps.json
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.crosscouting\bin\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.crosscouting.dll
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.crosscouting\bin\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.crosscouting.pdb
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.crosscouting\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.crosscouting.csprojAssemblyReference.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.crosscouting\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.crosscouting.AssemblyInfoInputs.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.crosscouting\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.crosscouting.AssemblyInfo.cs
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.crosscouting\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.crosscouting.csproj.CoreCompileInputs.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.crosscouting\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.crosscouting.dll
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.crosscouting\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.crosscouting.pdb

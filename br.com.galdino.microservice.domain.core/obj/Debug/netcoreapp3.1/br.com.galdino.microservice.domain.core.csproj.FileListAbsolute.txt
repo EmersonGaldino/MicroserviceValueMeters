@@ -1,0 +1,14 @@
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.core\bin\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.core.deps.json
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.core\bin\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.core.dll
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.core\bin\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.core.pdb
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.core\bin\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.crosscouting.dll
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.core\bin\Debug\netcoreapp3.1\br.com.galdino.microservice.infra.data.dll
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.core\bin\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.crosscouting.pdb
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.core\bin\Debug\netcoreapp3.1\br.com.galdino.microservice.infra.data.pdb
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.core\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.core.csprojAssemblyReference.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.core\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.core.AssemblyInfoInputs.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.core\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.core.AssemblyInfo.cs
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.core\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.core.csproj.CoreCompileInputs.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.core\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.core.csproj.CopyComplete
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.core\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.core.dll
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.microservice.one\br.com.galdino.microservice.domain.core\obj\Debug\netcoreapp3.1\br.com.galdino.microservice.domain.core.pdb

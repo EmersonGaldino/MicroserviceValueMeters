@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Uum5dHG4QYQfWkXRsvefR2Du9Pu8a0a5yGGmwo28pq0WmOXSJMq6Od0bWR8zIGnQLo8Fvac7K5I6Y6TdgP2Fw==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.domain.core\\br.com.galdino.microservice.domain.core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emers\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\emers\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\emers\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,326 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.one\\br.com.galdino.microservice.one.api.csproj": {}
+  },
+  "projects": {
+    "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.application\\br.com.galdino.microservice.application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.application\\br.com.galdino.microservice.application.csproj",
+        "projectName": "br.com.galdino.microservice.application",
+        "projectPath": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.application\\br.com.galdino.microservice.application.csproj",
+        "packagesPath": "C:\\Users\\emers\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.domain.core\\br.com.galdino.microservice.domain.core.csproj": {
+                "projectPath": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.domain.core\\br.com.galdino.microservice.domain.core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.domain.core\\br.com.galdino.microservice.domain.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.domain.core\\br.com.galdino.microservice.domain.core.csproj",
+        "projectName": "br.com.galdino.microservice.domain.core",
+        "projectPath": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.domain.core\\br.com.galdino.microservice.domain.core.csproj",
+        "packagesPath": "C:\\Users\\emers\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.domain.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.domain.crosscouting\\br.com.galdino.microservice.domain.crosscouting.csproj": {
+                "projectPath": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.domain.crosscouting\\br.com.galdino.microservice.domain.crosscouting.csproj"
+              },
+              "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.infra.data\\br.com.galdino.microservice.infra.data.csproj": {
+                "projectPath": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.infra.data\\br.com.galdino.microservice.infra.data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.domain.crosscouting\\br.com.galdino.microservice.domain.crosscouting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.domain.crosscouting\\br.com.galdino.microservice.domain.crosscouting.csproj",
+        "projectName": "br.com.galdino.microservice.domain.crosscouting",
+        "projectPath": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.domain.crosscouting\\br.com.galdino.microservice.domain.crosscouting.csproj",
+        "packagesPath": "C:\\Users\\emers\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.domain.crosscouting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.infra.data\\br.com.galdino.microservice.infra.data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.infra.data\\br.com.galdino.microservice.infra.data.csproj",
+        "projectName": "br.com.galdino.microservice.infra.data",
+        "projectPath": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.infra.data\\br.com.galdino.microservice.infra.data.csproj",
+        "packagesPath": "C:\\Users\\emers\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.infra.data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.one\\br.com.galdino.microservice.one.api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.one\\br.com.galdino.microservice.one.api.csproj",
+        "projectName": "br.com.galdino.microservice.one.api",
+        "projectPath": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.one\\br.com.galdino.microservice.one.api.csproj",
+        "packagesPath": "C:\\Users\\emers\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.one\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.application\\br.com.galdino.microservice.application.csproj": {
+                "projectPath": "D:\\Projetos\\Particular\\Estudos\\microserviceTest\\br.com.galdino.microservice.one\\br.com.galdino.microservice.application\\br.com.galdino.microservice.application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.1, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.1, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
